@@ -1,0 +1,21 @@
+Sorted by Comparator in Team class
+9    NorthEast United FC                   18         2         8        14
+8    Jamshedpur FC                         18         4         8        18
+7    Kerala Blasters FC                    18         4         7        19
+6    Odisha FC                             18         7         7        25
+5    Mumbai City FC                        18         7         6        26
+4    Chennaiyin FC                         18         8         5        29
+3    Bengaluru FC                          18         8         4        30
+2    ATK FC                                18        10         4        34
+1    FC Goa                                18        12         3        39
+
+Sorted by lambda
+1    FC Goa                                18        12         3        39
+2    ATK FC                                18        10         4        34
+6    Odisha FC                             18         7         7        25
+4    Chennaiyin FC                         18         8         5        29
+5    Mumbai City FC                        18         7         6        26
+3    Bengaluru FC                          18         8         4        30
+8    Jamshedpur FC                         18         4         8        18
+7    Kerala Blasters FC                    18         4         7        19
+9    NorthEast United FC                   18         2         8        14

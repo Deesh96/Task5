@@ -1,0 +1,2 @@
+Lowest number of points is 14
+Team with less than 5 wins: [ATK FC, Bengaluru FC, Chennaiyin FC, Mumbai City FC, Odisha FC, Kerala Blasters FC, Jamshedpur FC, NorthEast United FC]

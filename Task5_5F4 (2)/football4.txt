@@ -1,0 +1,5 @@
+Several teams have 18 points
+9    NorthEast United FC                   18         2         8        14
+
+Teams with 16 points
+4    Chennaiyin FC                         18         8         5        29
